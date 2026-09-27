@@ -1,0 +1,9 @@
+# Ambiente virtual do Python
+.venv/
+
+# Arquivos temporários gerados pelo Python
+__pycache__/
+*.pyc
+
+# Arquivos de configuração que podem conter informações sensíveis
+.streamlit/secrets.toml
