@@ -10,13 +10,11 @@ A proposta é criar uma camada de pesquisa mais simples sobre diferentes conjunt
 
 ## Problema identificado
 
-A Prefeitura de São Paulo disponibiliza diversos conjuntos de dados públicos, porém encontrar uma base adequada para uma determinada necessidade pode exigir que o usuário conheça previamente conceitos relacionados a dados abertos, formatos de arquivos, metadados e documentação.
+A Lei nº 12.527/2011 (Lei de Acesso à Informação - LAI) estabelece o acesso à informação como um direito e determina, entre outras diretrizes, a divulgação de informações de interesse público independentemente de solicitação. A lei também prevê que os sites oficiais disponham de ferramentas de pesquisa e que as informações sejam disponibilizadas de forma objetiva, transparente, clara e em linguagem de fácil compreensão, além de contemplar formatos eletrônicos abertos, estruturados e legíveis por máquina.
 
-Além de encontrar um conjunto de dados, também é necessário compreender o seu conteúdo para avaliar se ele pode ser utilizado para determinado objetivo.
+Mesmo com a disponibilização dessas informações pelos órgãos públicos, o grande volume e a diversidade de dados disponíveis podem tornar difícil para o cidadão encontrar, identificar e compreender a informação que procura.
 
-A partir disso, o projeto buscou responder à seguinte pergunta:
-
-> **Como facilitar a descoberta e a compreensão inicial de conjuntos de dados públicos para pessoas que não possuem conhecimento técnico sobre dados abertos?**
+A partir dessa percepção surgiu a proposta do DescobriSP: uma ferramenta criada para facilitar a busca por conjuntos de dados públicos e melhorar a experiência do usuário na identificação e compreensão inicial dessas informações.
 
 ## Objetivo
 
@@ -137,6 +135,7 @@ Os conjuntos de dados utilizados no catálogo foram obtidos a partir do **Portal
 As páginas oficiais de cada conjunto de dados são disponibilizadas individualmente na aplicação por meio do botão **"Acessar fonte oficial"**.
 
 ## Como executar
+O projeto pode ser executado pelo terminal integrado do VS Code.
 
 ### 1. Clonar o repositório
 
