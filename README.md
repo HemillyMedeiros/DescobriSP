@@ -177,14 +177,3 @@ streamlit run app.py
 
 A aplicação será disponibilizada localmente pelo Streamlit.
 
-## Limitações
-
-O DescobriSP foi desenvolvido como uma solução avaliativa e possui um escopo inicial reduzido.
-
-Atualmente:
-
-* o catálogo possui um número limitado de conjuntos de dados;
-* os dados do catálogo são cadastrados manualmente no arquivo CSV;
-* a pesquisa utiliza correspondência textual e não busca semântica;
-* as informações apresentadas dependem dos dados disponíveis nas fontes oficiais consultadas;
-* a aplicação não realiza a atualização automática dos datasets originais.
