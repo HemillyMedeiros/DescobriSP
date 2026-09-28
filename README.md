@@ -52,7 +52,7 @@ As informações apresentadas foram baseadas nas páginas oficiais dos conjuntos
 
 ## Uso de Inteligência Artificial
 
-A IA foi utilizada como apoio na **estruturação do projeto, organização das etapas de desenvolvimento, revisão da lógica e documentação**.
+A IA foi utilizada como apoio na **organização das etapas de desenvolvimento, revisão da lógica e documentação**.
 
 ## Solução desenvolvida
 
