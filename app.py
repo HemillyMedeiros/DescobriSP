@@ -60,7 +60,12 @@ if busca:
 
     # Procura a palavra digitada dentro das informações dos datasets.
     resultados = dados[
-        texto_busca.str.contains(busca, case=False, na=False)
+        texto_busca.str.contains(
+            busca,
+            case=False,
+            na=False,
+            regex=False
+        )
     ]
 
 else:
